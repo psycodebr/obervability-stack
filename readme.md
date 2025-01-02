@@ -1,5 +1,5 @@
 ### Projeto de Observability GPT Challenge ###
-
+```
 observability-stack/
 ├── docker-compose.yml                # Arquivo de orquestração para rodar os containers do projeto
 ├── prometheus/
@@ -11,3 +11,4 @@ observability-stack/
 │       ├── dashboards/               # Diretório para configuração dos dashboards
 │       │   └── dashboard.json        # Configuração do dashboard inicial
 ├── README.md                         # Documentação do projeto
+```
